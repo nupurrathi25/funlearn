@@ -3,7 +3,7 @@ A website which help student to understand importance of DSA in day to day life
 
 There are number of projects which will let you understand real life implemention of data strutures and algorithms. #projects Names
 
-1.Meeting Schedular:
+*1.Meeting Schedular:
 
 This application can be used by team to schedular or to find the time gap when all team member are available for meeting. This application is made using HTML,CSS and JS and greedy algorithm is used to solve this real time issue.
 
@@ -15,7 +15,7 @@ This a never lossing gamming application whuch was design by using HTML,CSS AND 
 
 This appliaction was developed using same tech that we used in above project. This project is basically design using recusion.
 
-Suduko solver:
+4.Suduko solver:
 This a gamming appliaction which is design to solve suduko instantaneous by using backtracking. Testing out all the possible way to solve the given condition and desplaying out the first valid way to solve it.
 
 5.Infix to Postfix:
