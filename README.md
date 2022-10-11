@@ -3,7 +3,7 @@ A website which help student to understand importance of DSA in day to day life
 
 There are number of projects which will let you understand real life implemention of data strutures and algorithms. #projects Names
 
-*1.Meeting Schedular:
+*1.Meeting Schedular:*
 
 This application can be used by team to schedular or to find the time gap when all team member are available for meeting. This application is made using HTML,CSS and JS and greedy algorithm is used to solve this real time issue.
 
